@@ -3,7 +3,7 @@ layout: page
 title: social
 nav-menu: true
 ---
-	<!-- Main -->
+
 <div id="main" class="alt">
 
 <!-- One -->
@@ -30,4 +30,3 @@ nav-menu: true
       <li><a href="https://19cah.tumblr.com" class="icon alt fa-tumblr"><span class="label">Tumblr</span></a></li>
       <li><a href="https://reddit.com/u/19cah" class="icon alt reddit-alien"><span class="label">Reddit</span></a></li>
 		</ul>
-		</html>
