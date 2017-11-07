@@ -21,7 +21,9 @@ nav-menu: true
      	<li><a href="https://github.com/19cah" class="icon alt fa-github"><span class="label">Github</span></a></li>
    	  	<li><a href="https://gitlab.com/19cah" class="icon alt fa-gitlab"><span class="label">Gitlab</span></a></li>
     	<li><a href="https://google.com/+Abraham19cah" class="icon alt fa-google-plus"><span class="label">Google+</span></a></li>
-  	    <li><a href="https://linkedin.com/in/19cah" class="icon alt fa-linkedin"><span class="label">Linkedin</span></a></li>
+  	    </ul>
+		<ul class="icons">
+		<li><a href="https://linkedin.com/in/19cah" class="icon alt fa-linkedin"><span class="label">Linkedin</span></a></li>
         <li><a href="https://www.freecodecamp.org/19cah" class="icon alt fa-free-code-camp"><span class="label">Free Code Camp</span></a></li>
       <li><a href="https://medium.com/@19cah" class="icon alt fa-medium"><span class="label">Medium</span></a></li>
       <li><a href="https://bitbucket.org/19cah" class="icon alt fa-bitbucket"><span class="label">Bitbucket</span></a></li>
