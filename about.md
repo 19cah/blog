@@ -2,7 +2,7 @@
 layout: post
 title: About
 description: About Me
-image: https://19cah.com/wp-content/uploads/2017/09/cropped-B2301E9D-6F22-4A98-8C8B-75FB7DD8EFC3.png
+image: assets/images/pic07.jpg
 nav-menu: true
 ---
 
