@@ -1,7 +1,7 @@
 ---
 layout: home
 title: Home
-landing-title: 'i'm Carlos Abraham'
+landing-title: 'i am Carlos Abraham'
 description: null
 image: null
 author: null
