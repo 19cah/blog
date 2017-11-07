@@ -6,12 +6,12 @@ description: A responsive site template designed by HTML5 Up<br /> and released 
 baseurl: "/blog" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site
 author: C. Abraham
-street_address: Anywhere at 19 CAH
+location: Anywhere at @19cah
 city: Miami
-state: FL
+state: Florida
 zip_code: 
 country: United States
-phone: (716) 555-5555
+phone:
 current_year: 2017 #copyright purpose
 
 # homepage tiles
