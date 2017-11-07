@@ -13,12 +13,14 @@ zip_code:
 country: United States
 phone:
 current_year: 2017 #copyright purpose
+slogan: @19cah
 
 # homepage tiles
 tiles-source: posts # accepts "posts" or "pages"
 tiles-count: 6
 
 # social settings
+website: https://19cah.com
 500px_url:
 facebook_url: https://facebook.com/19cah
 github_url: https://github.com/19cah
