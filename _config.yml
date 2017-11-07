@@ -1,18 +1,18 @@
 # site settings
 title: Abraham's Blog
 subtitle: i'm anywhere at @19cah
-email: youremailaddress@gmail.com
+email: carlosabraham@programmer.net
 description: A responsive site template designed by HTML5 Up<br /> and released under the Creative Commons.
 baseurl: "/blog" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site
 author: C. Abraham
-street_address: 1234 Somewhere Road
-city: Nashville
-state: TN
-zip_code: 55555
-country: United States of America
+street_address: Anywhere at 19 CAH
+city: Miami
+state: FL
+zip_code: 
+country: United States
 phone: (716) 555-5555
-current_year: 2017
+current_year: 2017 #copyright purpose
 
 # homepage tiles
 tiles-source: posts # accepts "posts" or "pages"
@@ -21,15 +21,16 @@ tiles-count: 6
 # social settings
 500px_url:
 facebook_url: https://facebook.com/19cah
-github_url: http://github.com/19cah
+github_url: https://github.com/19cah
 gitlab_url: https://gitlab.com/19cah
 googleplus_url: https://google.com/+Abraham19cah
 instagram_url: https://instagram.com/19cah
 linkedin_url: https://www.linkedin.com/in/19cah
 pinterest_url: https://pinterest.com/19cah
-slack_url:
 twitter_url: https://twitter.com/19cah
 stack_over_flow_url: https://stackoverflow.com/story/19cah
+codepen_url: https://codepen.io/19cah
+bitbucket_url: https://bitbucket.org/19cah/
 
 # urls inside the website
 github_repository_url: https://github.com/19cah/blog
