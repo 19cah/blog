@@ -20,15 +20,16 @@ tiles-count: 6
 
 # social settings
 500px_url:
-facebook_url:
-github_url:
-gitlab_url: https://gitlab.com/u/19cah
-googleplus_url: https://plus.google.com/u/0/+Abraham19cah
-instagram_url: https://instagram.com
+facebook_url: https://facebook.com/19cah
+github_url: http://github.com/19cah
+gitlab_url: https://gitlab.com/19cah
+googleplus_url: https://google.com/+Abraham19cah
+instagram_url: https://instagram.com/19cah
 linkedin_url: https://www.linkedin.com/in/19cah
-pinterest_url:
+pinterest_url: https://pinterest.com/19cah
 slack_url:
 twitter_url: https://twitter.com/19cah
+stack_over_flow_url: https://stackoverflow.com/story/19cah
 
 # urls inside the website
 github_repository_url: https://github.com/19cah/blog
