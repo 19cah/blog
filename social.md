@@ -3,16 +3,6 @@ layout: page
 title: social
 nav-menu: true
 ---
-
-<!-- Main -->
-<div id="main" class="alt">
-
-<!-- One -->
-<section id="one">
-<div class="inner">
-		<header class="major">
-			<h1>Social</h1>
-	</header>
 		
 		<ul class="icons">
 		<li><a href="https://twitter.com/19cah" class="icon alt fa-twitter"><span class="label">Twitter</span></a></li>
