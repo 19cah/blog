@@ -39,7 +39,7 @@
 			<section>
 				<div class="contact-method">
 					<span><img src="https://png.icons8.com/location/ios7/39/ffffff"></span>
-					<h3>Address</h3>
+					<h3>Where am I?</h3>
 					<span>
 					{% if site.street_address %}
 					    {{ site.street_address }}<br />
@@ -50,12 +50,12 @@
 					{% if site.state %}
 					    {{ site.state }} 
 					{% endif %}
-					{% if site.zip_code %}
-					    {{ site.zip_code }}<br />
+					<!-- {% if site.zip_code %}
+					    {{ site.zip_code }}--> <br />
 					{% endif %}
 					{% if site.country %}
 					    {{ site.country }}
-					{% endif %}
+					{% endif %} <img src="https://png.icons8.com/usa/color/50/000000">
 					</span>
 				</div>
 			</section>
