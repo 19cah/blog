@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Aliquam
-description: Ipsum dolor sit amet
+title: How to start coding
+description: CS50, a perfect curse for you to start coding.
 image: assets/images/pic01.jpg
 ---
 
