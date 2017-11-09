@@ -3,7 +3,7 @@ title: Abraham's Blog
 subtitle: i'm anywhere at @19cah
 email: carlosabraham@programmer.net
 description: A responsive site template designed by HTML5 Up<br /> and released under the Creative Commons.
-baseurl: "/blog" # the subpath of your site, e.g. /blog
+baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site
 author: C. Abraham
 location: Anywhere at @19cah
