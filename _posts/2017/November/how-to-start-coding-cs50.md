@@ -2,7 +2,7 @@
 layout: post
 title: How to start coding
 description: CS50, a perfect curse for you to start coding.
-image: assets/images/pic01.jpg
+image: blog/images/2017/November/cs50.jpg
 ---
 
 Donec eget ex magna. Interdum et malesuada fames ac ante ipsum primis in faucibus. Pellentesque venenatis dolor imperdiet dolor mattis sagittis. 
