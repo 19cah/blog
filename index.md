@@ -7,4 +7,4 @@ image: null
 author: null
 ---
 
-Nullam et orci eu lorem consequat tincidunt vivamus et sagittis libero. Mauris aliquet magna magna sed nunc rhoncus pharetra. Pellentesque condimentum sem. In efficitur ligula tate urna. Maecenas laoreet massa vel lacinia pellentesque lorem ipsum dolor. Nullam et orci eu lorem consequat tincidunt. Vivamus et sagittis libero. Mauris aliquet magna magna sed nunc rhoncus amet pharetra et feugiat tempus.
+My name is Carlos Abraham, I love programming, my favorite numbers are 19 & 7, I'm not a huge fan of Football but I love soccer, I play guitar but I don't sing at all, I knew what I wanted to do programming at early age. My favorite food is soup & cuban pork, and I broke my two of my left fingers twice.
