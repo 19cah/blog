@@ -7,7 +7,7 @@ image: blog/images/2017/November/cs50.jpg
 
 ### Where to start?.
 
-When we start learing how to code, we all start asking ourselves questions like: where to start?, what programming do I need to start with?,etc.
+When we start learing how to code, we all start asking ourselves questions like: where to start?, what programming do I need to start with?, etc.
 
 Well most of the people say that you should start by learing an easy programming language, [Python](https://www.python.org/) can be an that easy to start with, but today I will be showing you a free course that will help you a lot to learn a basics of the art of Computer Science.
 
@@ -17,6 +17,7 @@ Students who earn a satisfactory score on 9 problem sets (i.e., programming assi
 
 HarvardX requires individuals who enroll in its courses on [edX](https://edx.org) to abide by the terms of the edX honor code.
 
+Enroll Now: (here)[https://edx.org/cs50]
 
 
 [![GitHub followers](https://img.shields.io/github/followers/espadrine.svg?style=social&label=Follow)](https://github.com/19cah)
