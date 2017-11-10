@@ -17,7 +17,7 @@ Students who earn a satisfactory score on 9 problem sets (i.e., programming assi
 
 HarvardX requires individuals who enroll in its courses on [edX](https://edx.org) to abide by the terms of the edX honor code.
 
-Enroll Now: (here)[https://edx.org/cs50]
+Enroll Now: [here](https://edx.org/cs50)
 
 
 [![GitHub followers](https://img.shields.io/github/followers/espadrine.svg?style=social&label=Follow)](https://github.com/19cah)
