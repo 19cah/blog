@@ -1,20 +1,22 @@
 ---
 layout: post
 title: How to start coding
-description: CS50, a perfect curse for you to start coding.
+description: CS50, a perfect course for you to start coding.
 image: blog/images/2017/November/cs50.jpg
 ---
 
 ### Where to start?.
 
-When we all start programming
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis dapibus rutrum facilisis. 
-Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Etiam tristique libero eu nibh porttitor fermentum. 
-Nullam venenatis erat id vehicula viverra. Nunc ultrices eros ut ultricies condimentum. 
-Mauris risus lacus, blandit sit amet venenatis non, bibendum vitae dolor. Nunc lorem mauris, fringilla in aliquam at, euismod in lectus. 
-Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. In non lorem sit amet elit placerat maximus. 
-Pellentesque aliquam maximus risus, vel sed vehicula.
+When we start learing how to code, we all start asking ourselves questions like: where to start?, what programming do I need to start with?,etc.
 
-Interdum et malesuada fames ac ante ipsum primis in faucibus. Pellentesque venenatis dolor imperdiet dolor mattis sagittis. 
-Praesent rutrum sem diam, vitae egestas enim auctor sit amet. Pellentesque leo mauris, consectetur id ipsum sit amet, fersapien risus, commodo eget turpis at, elementum convallis elit. 
-Pellentesque enim turpis, hendrerit tristique lorem ipsum dolor.
+Well most of the people say that you should start by learing an easy programming language, [Python](https://www.python.org/) can be an that easy to start with, but today I will be showing you a free course that will help you a lot to learn a basics of the art of Computer Science.
+
+Computer Science 50 or just [CS50](https://github.com/CS50), is the Harvard University's introduction to the intellectual enterprises of computer science and the art of programming for majors and non-majors alike, with or without prior programming experience. An entry-level course taught by [David J. Malan](https://github.com/dmalan), CS50 teaches students how to think algorithmically and solve problems efficiently. Topics include abstraction, algorithms, data structures, encapsulation, resource management, security, software engineering, and web development. Languages include C, Python, SQL, and JavaScript plus CSS and HTML. Problem sets inspired by real-world domains of biology, cryptography, finance, forensics, and gaming.
+
+Students who earn a satisfactory score on 9 problem sets (i.e., programming assignments) and a final project are eligible for a certificate.
+
+HarvardX requires individuals who enroll in its courses on [edX](https://edx.org) to abide by the terms of the edX honor code.
+
+
+
+[![GitHub followers](https://img.shields.io/github/followers/espadrine.svg?style=social&label=Follow)](https://github.com/19cah)
