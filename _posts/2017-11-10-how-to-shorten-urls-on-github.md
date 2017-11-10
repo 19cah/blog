@@ -1,6 +1,6 @@
 ---
 layout: post
-title: How to use shortener GitHub URLs and create vanity URLs
+title: How to use shorten GitHub URLs and create vanity URLs
 description: Use git.io service to shorten GitHub URLs, and create vanity URLs
 image: blog/images/2017/November/git.jpg
 ---
