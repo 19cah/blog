@@ -2,8 +2,9 @@
 layout: post
 title: VFour Shortener
 description: VFour Shortener from Try-HTML
-image: assets/images/pic02.jpg
+image: https://imagestryht.ml/shortener/VFour.png
 ---
+
 
 * [19cah.com#](http://vvvv.ga/dBVP7v)
 * [github.com/tryhtml](http://vvvv.ga/mndFZO)
