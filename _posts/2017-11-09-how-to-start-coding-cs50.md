@@ -20,4 +20,4 @@ HarvardX requires individuals who enroll in its courses on [edX](https://edx.org
 Enroll Now: [here](https://edx.org/cs50)
 
 
-[![GitHub followers](https://img.shields.io/github/followers/espadrine.svg?style=social&label=Follow)](https://github.com/19cah)
+[![GitHub followers](https://img.shields.io/github/followers/19cah.svg?style=social&label=Follow)](https://github.com/19cah)
