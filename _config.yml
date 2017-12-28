@@ -4,7 +4,7 @@ subtitle: i'm anywhere at @19cah
 email: carlosabraham@programmer.net
 description: I Love coding<br /> and I am anywhere at @19cah.
 baseurl: "" # the subpath of your site, e.g. "/blog" because is at 19cah.com/blog
-url: "19cah.netlify.com" # the base hostname & protocol for your site
+url: "" # the base hostname & protocol for your site
 author: C. Abraham
 location: Anywhere at @19cah
 city: Miami
