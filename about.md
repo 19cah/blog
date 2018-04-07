@@ -1,6 +1,6 @@
 ---
-layout: post
 title: About
+layout: post
 description: About Me
 image: assets/images/caBackground.png
 nav-menu: true

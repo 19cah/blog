@@ -1,6 +1,6 @@
 ---
-layout: page
 title: social
+layout: page
 nav-menu: true
 ---
 

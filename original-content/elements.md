@@ -1,6 +1,6 @@
 ---
-layout: page
 title: Elements
+layout: page
 nav-menu: false
 ---
 

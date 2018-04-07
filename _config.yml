@@ -1,27 +1,31 @@
-# site settings
+---
 title: Abraham's Blog
+timezone: UTC
+collections:
+  posts:
+    title: Posts
+    output: true
+  uploads:
+    title: Uploads
+    output: true
 subtitle: i'm anywhere at @19cah
 email: carlosabraham@programmer.net
 description: I Love coding<br /> and I am anywhere at @19cah.
-baseurl: "/" # the subpath of your site, e.g. "/blog" because is at 19cah.com/blog
-url: "" # the base hostname & protocol for your site
+baseurl: "/"
+url: ''
 author: C. Abraham
 location: Anywhere at @19cah
 city: Miami
 state: Florida
 zip_code: 
 country: United States
-phone:
-current_year: 2018 #copyright purpose
+phone: 
+current_year: 2018
 slogan: 19cah
-
-# homepage tiles
-tiles-source: posts # accepts "posts" or "pages"
+tiles-source: posts
 tiles-count: 6
-
-# social settings
 website: https://19cah.com
-500px_url:
+500px_url: 
 facebook_url: https://facebook.com/19cah
 github_url: https://github.com/19cah
 gitlab_url: https://gitlab.com/19cah
@@ -34,11 +38,7 @@ stack_over_flow_url: https://stackoverflow.com/story/19cah
 codepen_url: https://codepen.io/19cah
 bitbucket_url: https://bitbucket.org/19cah
 gitter_url: https://gitter.im/19cah
-
-# urls inside the website
 github_repository_url: https://github.com/19cah/blog
-# build settings
 markdown: kramdown
-
 sass:
   style: compressed
