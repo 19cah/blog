@@ -46,7 +46,7 @@ GEM
     hitimes (1.2.2)
     html-pipeline (1.9.0)
       csupport (>= 2)
-      nokogiri (~> 1.4)
+      nokogiri ~> 1.8.1
     i18n (0.6.11)
     jekyll (2.4.0)
       classifier-reborn (~> 2.0)
