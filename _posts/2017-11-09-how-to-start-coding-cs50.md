@@ -3,7 +3,7 @@ title: How to start coding
 date: 2017-11-09 00:00:00 Z
 layout: post
 description: CS50, a perfect course for you to start coding.
-image: blog/images/2017/November/cs50.jpg
+image: https://cdn.abraham.gq/blog/2017/cs50.jpg
 ---
 
 ### Where to start?.
