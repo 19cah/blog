@@ -79,42 +79,60 @@
 <section id="one">
 	<div class="inner">
 		<header class="major">
-			<h1>How to use shorten GitHub URLs and create vanity URLs</h1>
-			<p>on November 10, 2017 at 01:12 am</p>
+			<h1>Release npm packages on Github</h1>
+			<p>on June 30, 2018 at 03:20 pm</p>
 		</header>
-		<span class="image main"><img src="https://cdn.abraham.gq/blog/2017/november/git.jpg" alt="" /></span>
-		<p><p>Suppose you want to shorten the URL to a particular location on GitHub, (the service for shorting URLs only works with Github URLs, so you cannot use it to external sites). Or perhaps you want to create a vanity URL that goes directly to your GitHub profile, e.g. <a href="https://git.io/19cah">git.io/19cah</a>. You can use <a href="https://git.io">Git.io</a>: GitHub URL Shortener.</p>
+		<span class="image main"><img src="https://cdn.abraham.gq/blog/2018/june/github-npm.jpg" alt="" /></span>
+		<p><h2 id="release-npm-packages-on-github">Release npm packages on Github</h2>
 
-<p>To shorten a URL, open your command prompt (via Git Shell) and type in</p>
+<p><a href="https://en.wikipedia.org/wiki/Npm_(software)">NPM</a> is a package manager for the JavaScript programming language.
+It is the default package manager for the JavaScript runtime environment Node.js.</p>
 
-<div class="highlighter-rouge"><div class="highlight"><pre class="highlight"><code>$ curl -i https://git.io -F "url=https://github.com/19cah" -F "code=19cah"
-</code></pre></div></div>
-<p>Where</p>
-<div class="highlighter-rouge"><div class="highlight"><pre class="highlight"><code>-F "code=vanity"
-</code></pre></div></div>
-<p>For example <code class="highlighter-rouge">19cah</code>, that is my Github username, but you can use whatever you want.
-Then you will recive in the response your shorten URL!</p>
-<div class="highlighter-rouge"><div class="highlight"><pre class="highlight"><code>Location: https://git.io/v5hxi
-</code></pre></div></div>
-<p>To create a vanity URL to your profile or URL you need to add <code class="highlighter-rouge">#</code> at the end of your profile or the url,</p>
-<div class="highlighter-rouge"><div class="highlight"><pre class="highlight"><code>$ curl -i https://git.io -F "url=https://github.com/19cah#" -F "code=19cah"
-</code></pre></div></div>
-<p>Now you’ll recive in the respose</p>
-<div class="highlighter-rouge"><div class="highlight"><pre class="highlight"><code>Location https://git.io/19cah
-</code></pre></div></div>
-<p>And that’s all</p>
+<p>It is basically used for managing dependencies of various server side dependencies.
+We can manages our server side dependencies manually as well but once our project’s dependencies grow it becomes difficult to install and manage.
+Read more about <a href="https://docs.npmjs.com/getting-started/what-is-npm">what is npm</a>?</p>
 
-<h3 id="check-some-of-the-shorteners-that-i-own-redirecting-to-my-profile">Check some of the shorteners that I own redirecting to my profile:</h3>
+<p>In the other hand we have <a href="https://github.com">Github</a>, which most of you have heard about.
+Github is a web-based hosting service for version control using Git. It is mostly used for computer code.
+It offers all of the distributed version control and source code management functionality of Git as well as adding its own features.</p>
+
+<p>Most of the npm packages are open source hosted on GitHub. So every time you drop a new NPM package version does GitHub get updated?</p>
+
+<table>
+  <thead>
+    <tr>
+      <th>From</th>
+      <th>To</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><img src="https://cdn.abraham.gq/blog/2018/june/github-release-0.png" alt="github-release-0" /></td>
+      <td><img src="https://cdn.abraham.gq/blog/2018/june/github-release-7.png" alt="github-release-7" /></td>
+    </tr>
+  </tbody>
+</table>
+
+<p>No, neither Github or NPM update automatically your brand new node package version.
+So that’s why I decided to automatize my node modules. So that’s how <strong><a href="https://github.com/19cah/github-npm">GITHUB-NPM</a></strong> was born.</p>
+
+<p><img src="https://nodei.co/npm/github-npm.png?compact=true" alt="badge" /></p>
+
+<p>The best thing about <strong>Github-NPM</strong> is that it is pretty simple to use and straightforward.
+To use it, just type on your terminal:</p>
+
+<div class="highlighter-rouge"><div class="highlight"><pre class="highlight"><code>$ npx install github-npm &lt;version&gt;
+</code></pre></div></div>
+
+<p><strong>Github-NPM</strong> automatically:</p>
 
 <ul>
-  <li><a href="https://git.io/19cah">git.io/19cah</a></li>
-  <li><a href="https://git.io/abraham">git.io/abraham</a></li>
-  <li><a href="https://git.io/carlos">git.io/carlos</a></li>
+  <li>Publish the package to npm.</li>
+  <li>Since npm change the version value on your <code class="highlighter-rouge">package.json</code> <strong>github-npm</strong> add and commit to master branch your untracked files.</li>
+  <li><strong>github-npm</strong> create a new tag and push the created tag to Github.</li>
 </ul>
 
-<p>You can use it to shorten your repositories, so it will be easy to share.</p>
-
-<p><a href="https://github.com/19cah"><img src="https://img.shields.io/github/followers/19cah.svg?style=social&amp;label=Follow" alt="GitHub followers" /></a></p>
+<p>Believe me <strong>github-npm</strong> makes me save a lot of time. You should try it 😉 !</p>
 </p>
 	</div>
 </section>

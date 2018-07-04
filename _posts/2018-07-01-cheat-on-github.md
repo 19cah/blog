@@ -52,13 +52,13 @@ Using [this](https://chrome.google.com/webstore/detail/isometric-contributions/m
 
 ## Before
 
-![Before](https://cdn.abraham.gq/blog/2018/github-profile-1.png)
+![Before](https://cdn.abraham.gq/blog/2018/july/github-profile-1.png)
 
-![Before](https://cdn.abraham.gq/blog/2018/streak-profile-1.png)
+![Before](https://cdn.abraham.gq/blog/2018/july/streak-profile-1.png)
 
 
 ## After
 
-![After](https://cdn.abraham.gq/blog/2018/github-profile-2.png)
+![After](https://cdn.abraham.gq/blog/2018/july/github-profile-2.png)
 
-![After](https://cdn.abraham.gq/blog/2018/streak-profile-2.png)
+![After](https://cdn.abraham.gq/blog/2018/july/streak-profile-2.png)

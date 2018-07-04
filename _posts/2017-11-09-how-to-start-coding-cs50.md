@@ -3,7 +3,7 @@ title: How to start coding
 post_date: on November 9, 2017 at 02:05 am
 layout: post
 description: CS50, a perfect course for you to start coding.
-image: https://cdn.abraham.gq/blog/2017/cs50.jpg
+image: https://cdn.abraham.gq/blog/2017/november/cs50.jpg
 ---
 
 ### Where to start?.
@@ -19,6 +19,3 @@ Students who earn a satisfactory score on 9 problem sets (i.e., programming assi
 HarvardX requires individuals who enroll in its courses on [edX](https://edx.org) to abide by the terms of the edX honor code.
 
 Enroll Now: [here](https://edx.org/cs50)
-
-
-[![GitHub followers](https://img.shields.io/github/followers/19cah.svg?style=social&label=Follow)](https://github.com/19cah)

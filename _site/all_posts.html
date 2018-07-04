@@ -11,6 +11,9 @@
 	<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css"
 	<!--[if lte IE 9]><link rel="stylesheet" href="/assets/css/ie9.css" /> <!--[endif]-->
 	<!--[if lte IE 8]><link rel="stylesheet" href="/assets/css/ie8.css" /><![endif]-->
+	<link rel="stylesheet"
+      href="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.12.0/styles/default.min.css">
+<script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.12.0/highlight.min.js"></script>
 </head>
 
 
@@ -129,15 +132,72 @@ The project is <a href="https://github.com/19cah/gh-cheat">open source and hoste
 
 <h2 id="before">Before</h2>
 
-<p><img src="https://cdn.abraham.gq/blog/2018/github-profile-1.png" alt="Before" /></p>
+<p><img src="https://cdn.abraham.gq/blog/2018/july/github-profile-1.png" alt="Before" /></p>
 
-<p><img src="https://cdn.abraham.gq/blog/2018/streak-profile-1.png" alt="Before" /></p>
+<p><img src="https://cdn.abraham.gq/blog/2018/july/streak-profile-1.png" alt="Before" /></p>
 
 <h2 id="after">After</h2>
 
-<p><img src="https://cdn.abraham.gq/blog/2018/github-profile-2.png" alt="After" /></p>
+<p><img src="https://cdn.abraham.gq/blog/2018/july/github-profile-2.png" alt="After" /></p>
 
-<p><img src="https://cdn.abraham.gq/blog/2018/streak-profile-2.png" alt="After" /></p>
+<p><img src="https://cdn.abraham.gq/blog/2018/july/streak-profile-2.png" alt="After" /></p>
+</p>
+                
+		<header class="major">
+			<h1>Release npm packages on Github</h1>
+			<p>on June 30, 2018 at 03:20 pm</p>
+		</header>
+		<span class="image main"><img src="https://cdn.abraham.gq/blog/2018/june/github-npm.jpg" alt="" /></span>
+		<p><h2 id="release-npm-packages-on-github">Release npm packages on Github</h2>
+
+<p><a href="https://en.wikipedia.org/wiki/Npm_(software)">NPM</a> is a package manager for the JavaScript programming language.
+It is the default package manager for the JavaScript runtime environment Node.js.</p>
+
+<p>It is basically used for managing dependencies of various server side dependencies.
+We can manages our server side dependencies manually as well but once our project’s dependencies grow it becomes difficult to install and manage.
+Read more about <a href="https://docs.npmjs.com/getting-started/what-is-npm">what is npm</a>?</p>
+
+<p>In the other hand we have <a href="https://github.com">Github</a>, which most of you have heard about.
+Github is a web-based hosting service for version control using Git. It is mostly used for computer code.
+It offers all of the distributed version control and source code management functionality of Git as well as adding its own features.</p>
+
+<p>Most of the npm packages are open source hosted on GitHub. So every time you drop a new NPM package version does GitHub get updated?</p>
+
+<table>
+  <thead>
+    <tr>
+      <th>From</th>
+      <th>To</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><img src="https://cdn.abraham.gq/blog/2018/june/github-release-0.png" alt="github-release-0" /></td>
+      <td><img src="https://cdn.abraham.gq/blog/2018/june/github-release-7.png" alt="github-release-7" /></td>
+    </tr>
+  </tbody>
+</table>
+
+<p>No, neither Github or NPM update automatically your brand new node package version.
+So that’s why I decided to automatize my node modules. So that’s how <strong><a href="https://github.com/19cah/github-npm">GITHUB-NPM</a></strong> was born.</p>
+
+<p><img src="https://nodei.co/npm/github-npm.png?compact=true" alt="badge" /></p>
+
+<p>The best thing about <strong>Github-NPM</strong> is that it is pretty simple to use and straightforward.
+To use it, just type on your terminal:</p>
+
+<div class="highlighter-rouge"><div class="highlight"><pre class="highlight"><code>$ npx install github-npm &lt;version&gt;
+</code></pre></div></div>
+
+<p><strong>Github-NPM</strong> automatically:</p>
+
+<ul>
+  <li>Publish the package to npm.</li>
+  <li>Since npm change the version value on your <code class="highlighter-rouge">package.json</code> <strong>github-npm</strong> add and commit to master branch your untracked files.</li>
+  <li><strong>github-npm</strong> create a new tag and push the created tag to Github.</li>
+</ul>
+
+<p>Believe me <strong>github-npm</strong> makes me save a lot of time. You should try it 😉 !</p>
 </p>
                 
 		<header class="major">
@@ -161,7 +221,7 @@ The project is <a href="https://github.com/19cah/gh-cheat">open source and hoste
 			<h1>How to use shorten GitHub URLs and create vanity URLs</h1>
 			<p>on November 10, 2017 at 01:12 am</p>
 		</header>
-		<span class="image main"><img src="https://cdn.abraham.gq/blog/2017/git.jpg" alt="" /></span>
+		<span class="image main"><img src="https://cdn.abraham.gq/blog/2017/november/git.jpg" alt="" /></span>
 		<p><p>Suppose you want to shorten the URL to a particular location on GitHub, (the service for shorting URLs only works with Github URLs, so you cannot use it to external sites). Or perhaps you want to create a vanity URL that goes directly to your GitHub profile, e.g. <a href="https://git.io/19cah">git.io/19cah</a>. You can use <a href="https://git.io">Git.io</a>: GitHub URL Shortener.</p>
 
 <p>To shorten a URL, open your command prompt (via Git Shell) and type in</p>
@@ -200,7 +260,7 @@ Then you will recive in the response your shorten URL!</p>
 			<h1>How to start coding</h1>
 			<p>on November 9, 2017 at 02:05 am</p>
 		</header>
-		<span class="image main"><img src="https://cdn.abraham.gq/blog/2017/cs50.jpg" alt="" /></span>
+		<span class="image main"><img src="https://cdn.abraham.gq/blog/2017/november/cs50.jpg" alt="" /></span>
 		<p><h3 id="where-to-start">Where to start?.</h3>
 
 <p>When we start learing how to code, we all start asking ourselves questions like: where to start?, what programming do I need to start with?, etc.</p>
@@ -214,8 +274,6 @@ Then you will recive in the response your shorten URL!</p>
 <p>HarvardX requires individuals who enroll in its courses on <a href="https://edx.org">edX</a> to abide by the terms of the edX honor code.</p>
 
 <p>Enroll Now: <a href="https://edx.org/cs50">here</a></p>
-
-<p><a href="https://github.com/19cah"><img src="https://img.shields.io/github/followers/19cah.svg?style=social&amp;label=Follow" alt="GitHub followers" /></a></p>
 </p>
                 
 	</div>
@@ -285,7 +343,7 @@ Then you will recive in the response your shorten URL!</p>
 			</section>
 		</section>
 	</div>
-</section> --> 
+</section> -->
 
 <!-- Footer -->
 	<footer id="footer">
@@ -335,6 +393,8 @@ Then you will recive in the response your shorten URL!</p>
 	<script src="http://localhost:4000/assets/js/util.js"></script>
 	<!--[if lte IE 8]><script src="http://localhost:4000/assets/js/ie/respond.min.js"></script><![endif]-->
 	<script src="http://localhost:4000/assets/js/main.js"></script>
+	<script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/8.9.1/highlight.min.js"></script>
+	<script>hljs.initHighlightingOnLoad();</script>
 
 
 </body>
