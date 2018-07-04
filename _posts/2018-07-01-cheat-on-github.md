@@ -1,6 +1,6 @@
 ---
 title: Cheat on Github
-date: on July 01, 2018  02:37 am
+post_date: on July 01, 2018 at 02:37 am
 layout: post
 description: How did I cheat on my Github profile
 image: https://ih1.redbubble.net/image.580822097.0711/mug,standard,x400,right-bg,ffffff.u7.jpg
@@ -16,7 +16,7 @@ It’s like the classic quote about climbing Mount Everest simply because "It wa
 I [joined Github in 2016](https://github.com/19cah?tab=overview&from=2016-08-01&to=2016-08-31#contribution-joined-github-21347264-2016-08-30)
 and it didn't take me to long to start making a daily commit. Sometimes working on projects but other times just to have a cool green profile.
 
-So how did I went from 
+So how did I went from
 
 ![Before](https://cdn.abraham.gq/projects/gh-cheat/2017-1.png)
 
@@ -33,9 +33,9 @@ Anybody can post-date or pre-date git commits, push them to GitHub, and the cont
 So that's how I decided to automate my commits to have a perfect streak. So I wrote a [bash shell](https://en.wikipedia.org/wiki/Bash_(Unix_shell)) script to be able to commit daily.
 The project is [open source and hosted on Github](https://github.com/19cah/gh-cheat), you can use it if you want!
 
-## What did I earn doing it? 
+## What did I earn doing it?
 
-**Nothing**, I really didn't gain anything at all having a perfect Github streak profile. But it was cool doing it, so I did it! 
+**Nothing**, I really didn't gain anything at all having a perfect Github streak profile. But it was cool doing it, so I did it!
 
 ## ❛❛
 

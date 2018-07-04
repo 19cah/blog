@@ -5,9 +5,9 @@
 
 <body>
 
-    {% include header.html %} 
-    
-    
+    {% include header.html %}
+
+
 <!-- Main -->
 <div id="main" class="alt">
 
@@ -16,6 +16,7 @@
 	<div class="inner">
 		<header class="major">
 			<h1>{{ page.title }}</h1>
+			<p>{{ page.post_date }}</p>
 		</header>
 		{% if page.image %}<span class="image main"><img src="{{ page.image }}" alt="" /></span>{% endif %}
 		<p>{{ content }}</p>

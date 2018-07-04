@@ -1,6 +1,6 @@
 ---
 title: How to start coding
-date: 2017-11-09 00:00:00 Z
+post_date: on November 9, 2017 at 02:05 am
 layout: post
 description: CS50, a perfect course for you to start coding.
 image: https://cdn.abraham.gq/blog/2017/cs50.jpg

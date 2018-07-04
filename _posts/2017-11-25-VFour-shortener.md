@@ -1,6 +1,6 @@
 ---
 title: VFour Shortener
-date: 2017-11-25 00:00:00 Z
+post_date: on November 25, 2017 at 11:42 pm
 layout: post
 description: VFour Shortener from Try-HTML
 image: https://imagestryht.ml/shortener/VFour.png
@@ -14,4 +14,3 @@ VFour or [VVVV.ga](https://vvvv.ga) is a free shortener URL created by [TryHTML]
 * [tryht.ml](https://tryht.ml) `becomes:` [http://vvvv.ga/ziE9M0](http://vvvv.ga/ziE9M0)
 * [tryhtml.org](https://tryhtml.org) `becomes:` [http://vvvv.ga/Vsv6DL](http://vvvv.ga/Vsv6DL)
 * [tryhtml.store](https://tryhtml.store) `becomes:` [http://vvvv.ga/tG3kNH](http://vvvv.ga/tG3kNH)
-

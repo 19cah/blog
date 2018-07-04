@@ -1,23 +1,23 @@
 ---
 title: How to use shorten GitHub URLs and create vanity URLs
-date: 2017-11-10 00:00:00 Z
+post_date: on November 10, 2017 at 01:12 am
 layout: post
 description: Use git.io service to shorten GitHub URLs, and create vanity URLs
 image: https://cdn.abraham.gq/blog/2017/git.jpg
 ---
 
 Suppose you want to shorten the URL to a particular location on GitHub, (the service for shorting URLs only works with Github URLs, so you cannot use it to external sites). Or perhaps you want to create a vanity URL that goes directly to your GitHub profile, e.g. [git.io/19cah](https://git.io/19cah). You can use [Git.io](https://git.io): GitHub URL Shortener.
- 
+
  To shorten a URL, open your command prompt (via Git Shell) and type in
- 
+
  ```
 $ curl -i https://git.io -F "url=https://github.com/19cah" -F "code=19cah"
 ```
-Where 
+Where
 ```
 -F "code=vanity"
 ```
-For example `19cah`, that is my Github username, but you can use whatever you want. 
+For example `19cah`, that is my Github username, but you can use whatever you want.
 Then you will recive in the response your shorten URL!
 ```
 Location: https://git.io/v5hxi

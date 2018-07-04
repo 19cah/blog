@@ -32,13 +32,13 @@
 			'color #{_duration(transition)} ease-in-out',
 			'border-bottom-color #{_duration(transition)} ease-in-out'
 		));
-		border-bottom: dotted 1px;
-		color: inherit;
+		border-bottom: none;
+		color: _palette(highlight);
 		text-decoration: none;
 
 		&:hover {
 			border-bottom-color: transparent;
-			color: _palette(highlight) !important;
+			color: #DBD3D8  !important;
 		}
 
 		&:active {
