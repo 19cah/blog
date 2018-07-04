@@ -1,6 +1,6 @@
 ---
 title: Cheat on Github
-date: 2018-07-01 00:00:00 Z
+date: July 01, 2018 at 02:37 am
 layout: post
 description: How did I cheat on my Github profile
 image: https://ih1.redbubble.net/image.580822097.0711/mug,standard,x400,right-bg,ffffff.u7.jpg
