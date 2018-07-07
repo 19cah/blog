@@ -14,7 +14,7 @@
 		"node": ">=8"
 	},
 	"scripts": {
-		"start": "./cli.js",
+		"start": "node ./cli.js",
 		"test": "xo && ava"
 	},
 	"files": [
