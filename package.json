@@ -4,11 +4,12 @@
 	"description": "API",
 	"repository": "19cah/blog",
 	"author": "Carlos Abraham",
-	"bin": "./lanterns/api.js",
+	"bin": "lanterns/api.js",
 	"engines": {
 		"node": ">=8"
 	},
 	"scripts": {
+		"start": "node lanterns/api.js",
 		"test": "xo && ava"
 	},
 	"files": [
