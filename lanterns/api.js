@@ -6,7 +6,7 @@ const lanterns = require('.');
 const success = message => console.log(`${chalk.green(figures.pointer)} ${message}`);
 const error = message => console.log(`${chalk.red(figures.pointer)} ${message}`);
 
-const server = lanterns(path.resolve('./lanterns/_posts/'));
+const server = lanterns(path.resolve('./_posts'));
 const port = process.env.PORT || 3000;
 
 server.listen(port, err => {
