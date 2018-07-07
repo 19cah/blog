@@ -1,0 +1,3 @@
+[submodule "lanterns"]
+	path = lanterns
+	url = https://github.com/vadimdemedes/lanterns
