@@ -4,30 +4,12 @@
 	"description": "API",
 	"repository": "19cah/blog",
 	"author": "Carlos Abraham",
-	"bin": "lanterns/api.js",
 	"engines": {
 		"node": ">=8"
 	},
 	"scripts": {
-		"start": "node lanterns/api.js",
-		"test": "xo && ava"
+		"start": "node lanterns/api.js"
 	},
-	"files": [
-		"index.js",
-		"cli.js",
-		"resolvers",
-		"scalars",
-		"lib",
-		"schema.graphql"
-	],
-	"keywords": [
-		"markdown",
-		"md",
-		"api",
-		"graphql",
-		"contentful",
-		"headless"
-	],
 	"dependencies": {
 		"apollo-server-micro": "^1.3.2",
 		"chalk": "^2.3.2",
@@ -50,21 +32,5 @@
 		"graphql-got": "^0.1.1",
 		"test-listen": "^1.1.0",
 		"xo": "^0.18.2"
-	},
-	"xo": {
-		"overrides": [
-			{
-				"files": "resolvers/*.js",
-				"rules": {
-					"unicorn/filename-case": 0
-				}
-			},
-			{
-				"files": "scalars/*.js",
-				"rules": {
-					"unicorn/filename-case": 0
-				}
-			}
-		]
 	}
 }
