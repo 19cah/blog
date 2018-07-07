@@ -9,7 +9,7 @@
 		"node": ">=8"
 	},
 	"scripts": {
-		"start": "node ./api.js",
+		"start": "node ./lanterns/api.js",
 		"test": "xo && ava"
 	},
 	"files": [
