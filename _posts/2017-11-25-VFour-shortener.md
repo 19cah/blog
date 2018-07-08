@@ -4,6 +4,7 @@ post_date: on November 25, 2017 at 11:42 pm
 layout: post
 description: VFour Shortener from Try-HTML
 image: https://imagestryht.ml/shortener/VFour.png
+web: https://blog.19cah.com/2017/11/25/VFour-shortener.html
 ---
 
 VFour or [VVVV.ga](https://vvvv.ga) is a free shortener URL created by [TryHTML](https://tryhtml.org) launched on November 17, 2017 as they said on their Instagram account on one of their [posts](https://www.instagram.com/p/BblYfYyFb9g/?taken-by=tryhtml). Basically VFour is like [bit.ly](https://bit.ly), [goo.gl](https://goo.gl/) & [cutt.us](http://cutt.us) free to use, but at this time Try HTML aren't offering custom links, but they announced, they will be working on it for next year. Those are some of the links examples created with VFour.

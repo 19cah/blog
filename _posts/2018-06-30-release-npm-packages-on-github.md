@@ -4,6 +4,7 @@ post_date: on June 30, 2018 at 03:20 pm
 layout: post
 description: With GITHUB-NPM release npm packages on Github never had been easier
 image: https://cdn.abraham.gq/blog/2018/june/github-npm.jpg
+web: https://blog.19cah.com/2018/06/30/release-npm-packages-on-github.html
 ---
 
 ## Release npm packages on Github

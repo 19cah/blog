@@ -4,6 +4,7 @@ post_date: on July 01, 2018 at 02:37 am
 layout: post
 description: How did I cheat on my Github profile
 image: https://ih1.redbubble.net/image.580822097.0711/mug,standard,x400,right-bg,ffffff.u7.jpg
+web: https://blog.19cah.com/2018/07/01/cheat-on-github.html
 ---
 
 ##  Why Commit to a [Github](https://github.com) Streak

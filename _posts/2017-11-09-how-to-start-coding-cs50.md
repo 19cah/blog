@@ -4,6 +4,7 @@ post_date: on November 9, 2017 at 02:05 am
 layout: post
 description: CS50, a perfect course for you to start coding.
 image: https://cdn.abraham.gq/blog/2017/november/cs50.jpg
+web: https://blog.19cah.com/2017/11/09/how-to-start-coding-cs50.html
 ---
 
 ### Where to start?.
