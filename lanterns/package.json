@@ -34,15 +34,15 @@
 		"headless"
 	],
 	"dependencies": {
-		"apollo-server-micro": "^1.3.2",
+		"apollo-server-micro": "^2.0.0",
 		"chalk": "^2.3.2",
 		"figures": "^2.0.0",
 		"front-matter": "^2.3.0",
 		"graphql": "^0.13.1",
-		"graphql-tools": "^2.21.0",
+		"graphql-tools": "^3.1.1",
 		"graphql-type-json": "^0.2.0",
 		"mem": "^3.0.0",
-		"meow": "^3.7.0",
+		"meow": "^5.0.0",
 		"micro": "^9.1.0",
 		"moment": "^2.21.0",
 		"p-map": "^1.2.0",
@@ -51,10 +51,10 @@
 		"sort-by": "^1.2.0"
 	},
 	"devDependencies": {
-		"ava": "^0.20.0",
+		"ava": "^0.25.0",
 		"graphql-got": "^0.1.1",
 		"test-listen": "^1.1.0",
-		"xo": "^0.18.2"
+		"xo": "^0.22.0"
 	},
 	"xo": {
 		"overrides": [
