@@ -1,6 +1,8 @@
 
 # Abraham's blog
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/abranhe/blog.svg)](https://greenkeeper.io/)
+
 # Credits
 
 Original README from HTML5 UP:
