@@ -1,0 +1,16 @@
+language: ruby
+rvm:
+  - 2.4.1
+
+script: echo "mdc"
+
+branches:
+  only:
+  - master
+
+sudo: false
+
+cache: bundler
+
+notifications:
+  email: false
