@@ -8,13 +8,13 @@ collections:
   uploads:
     title: Uploads
     output: true
-subtitle: i'm anywhere at @19cah
-email: carlosabraham@programmer.net
-description: I Love coding<br /> and I am anywhere at @19cah.
+subtitle: i'm anywhere at @abranhe
+email: abraham@abranhe.com
+description: I Love coding<br /> and I am anywhere at @abranhe.
 baseurl: "/"
 url: " "
 author: C. Abraham
-location: Anywhere at @19cah
+location: Anywhere at @abranhe
 city: Miami
 state: Florida
 zip_code:
@@ -24,21 +24,21 @@ current_year: 2018
 slogan: 19cah
 tiles-source: posts
 tiles-count: 10
-website: https://19cah.com
+website: https://abranhe.com
 500px_url:
-facebook_url: https://facebook.com/19cah
-github_url: https://github.com/19cah
-gitlab_url: https://gitlab.com/19cah
-googleplus_url: https://google.com/+Abraham19cah
-instagram_url: https://instagram.com/19cah
-linkedin_url: https://www.linkedin.com/in/19cah
-pinterest_url: https://pinterest.com/19cah
-twitter_url: https://twitter.com/19cah
-stack_over_flow_url: https://stackoverflow.com/story/19cah
-codepen_url: https://codepen.io/19cah
-bitbucket_url: https://bitbucket.org/19cah
-gitter_url: https://gitter.im/19cah
-github_repository_url: https://github.com/19cah/blog
+facebook_url: https://facebook.com/abranhe
+github_url: https://github.com/abranhe
+gitlab_url: https://gitlab.com/abranhe
+googleplus_url: https://google.com/+abranhe
+instagram_url: https://instagram.com/abranhe
+linkedin_url: https://www.linkedin.com/in/abranhe
+# pinterest_url: https://pinterest.com/19cah
+twitter_url: https://twitter.com/abranhe
+stack_over_flow_url: https://stackoverflow.com/story/abranhe
+codepen_url: https://codepen.io/abranhe
+bitbucket_url: https://bitbucket.org/abranhe
+gitter_url: https://gitter.im/abranhe
+github_repository_url: https://github.com/abranhe/blog
 markdown: kramdown
 sass:
   style: compressed
