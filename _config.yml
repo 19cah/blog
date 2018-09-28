@@ -21,7 +21,7 @@ zip_code:
 country: United States
 phone:
 current_year: 2018
-slogan: 19cah
+slogan: abranhe
 tiles-source: posts
 tiles-count: 10
 website: https://abranhe.com
@@ -32,7 +32,6 @@ gitlab_url: https://gitlab.com/abranhe
 googleplus_url: https://google.com/+abranhe
 instagram_url: https://instagram.com/abranhe
 linkedin_url: https://www.linkedin.com/in/abranhe
-# pinterest_url: https://pinterest.com/19cah
 twitter_url: https://twitter.com/abranhe
 stack_over_flow_url: https://stackoverflow.com/story/abranhe
 codepen_url: https://codepen.io/abranhe

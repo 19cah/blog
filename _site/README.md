@@ -1,5 +1,5 @@
 
-# Abraham's blog
+# Abraham's blog <a href="https://travis-ci.org/abranhe/blog"><img src="https://img.shields.io/travis/abranhe/blog.svg?logo=travis" /></a>
 
 # Credits
 
