@@ -3,8 +3,8 @@ title: Release npm packages on Github
 post_date: on June 30, 2018 at 03:20 pm
 layout: post
 description: With GITHUB-NPM release npm packages on Github never had been easier
-image: https://cdn.abraham.gq/blog/2018/june/github-npm.jpg
-web: https://blog.19cah.com/2018/06/30/release-npm-packages-on-github.html
+image: https://cdn.abranhe.com/blog/2018/june/github-npm.jpg
+web: https://blog.abranhe.com/2018/06/30/release-npm-packages-on-github.html
 ---
 
 ## Release npm packages on Github
@@ -24,7 +24,7 @@ Most of the npm packages are open source hosted on GitHub. So every time you dro
 
 | From | To |
 | - | - |
-| ![github-release-0](https://cdn.abraham.gq/blog/2018/june/github-release-0.png) | ![github-release-7](https://cdn.abraham.gq/blog/2018/june/github-release-7.png)|
+| ![github-release-0](https://cdn.abranhe.com/blog/2018/june/github-release-0.png) | ![github-release-7](https://cdn.abranhe.com/blog/2018/june/github-release-7.png)|
 
 No, neither Github or NPM update automatically your brand new node package version.
 So that's why I decided to automatize my node modules. So that's how **[GITHUB-NPM](https://github.com/19cah/github-npm)** was born.
